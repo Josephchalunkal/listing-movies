@@ -1,0 +1,27 @@
+.header-wrapper{
+    height:5vh;
+    display: flex;
+    justify-content: space-between;
+    color:#fff;
+    position:sticky;
+    top:0px;
+    z-index: 10;
+}
+.css-i4bv87-MuiSvgIcon-root{
+    height:3rem;
+    width:3rem;
+    display: block;
+}
+.header-firstchild{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    margin-left: 10px;
+}
+.header-secondchild{
+    margin-right: 10px;
+}
+.header-text{
+    font-size: 30px;
+    width:max-content;
+}

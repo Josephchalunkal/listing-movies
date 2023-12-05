@@ -1,0 +1,27 @@
+.mainContent{
+    margin-top: 20px;
+    color:#fff ;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+img{
+    overflow: hidden;
+    object-fit: cover;
+    width:100%;
+}
+.no-movies{
+    
+
+display: flex;
+align-items: center;
+justify-content: center;
+    height:90vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4hc4IHi83RKcGnYgRF65jYkTzcvI2YEOU4HGZjG84jPPZZfUuPhXk7-HEw&s");
+
+}
+.no-movies h1{
+    font-size: 30px;
+    color:#fff;
+background-color: red;
+}
